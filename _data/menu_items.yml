@@ -3,6 +3,7 @@
   url: /
   active_key: home
 
+'''
 - name: 定制化
   icon: tools
   url: /customize/
@@ -17,3 +18,4 @@
   icon: donate
   url: /donate/
   active_key: donate
+'''
