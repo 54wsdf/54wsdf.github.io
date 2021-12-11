@@ -338,9 +338,9 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 北交校园
     links:
-    - name: 北邮官网
+    - name: 北交官网
       style: basic
       url: https://www.bupt.edu.cn/
 
