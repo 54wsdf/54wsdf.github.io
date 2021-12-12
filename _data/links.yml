@@ -342,32 +342,32 @@
     links:
     - name: 北交官网
       style: basic
-      url: https://www.bupt.edu.cn/
+      url: https://www.bjtu.edu.cn/
 
-    - name: 本科教务系统
+    - name: 本科生院
       style: basic
-      url: https://jwgl.bupt.edu.cn/jsxsd/
+      url: https://bksy.bjtu.edu.cn/
 
-    - name: 研究生教务系统
+    - name: 图书馆
       style: basic
-      url: http://yjxt.bupt.edu.cn/
+      url: http://lib.njtu.edu.cn/
 
-    - name: 教务处
+    - name: mis系统
       style: basic
-      url: http://jwc.bupt.edu.cn/
+      url: https://cas.bjtu.edu.cn/auth/login/
 
-    - name: 北邮人论坛
+    - name: 知行论坛
       style: basic
-      url: https://bbs.byr.cn/
+      url: https://zhixing.bjtu.edu.cn/
 
-    - name: 北邮人BT
+    - name: 邮箱
       style: blue
-      url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+      url: https://mail.bjtu.edu.cn/coremail/
 
-    - name: 北邮IPTV
+    - name: 交通运输学院
       style: basic
-      url: http://tv.byr.cn/
-
+      url: http://trans.bjtu.edu.cn/cms/
+'''
     - name: 信息门户
       style: basic
       url: http://my.bupt.edu.cn/
@@ -395,7 +395,7 @@
     - name: 空闲自习室查询
       style: basic
       url: http://buptclass.com/
-
+'''
   - name: 校园助手
     links:
     - name: 空余教室查询
